@@ -1,10 +1,71 @@
 <h1 align="center">Hola , soy Thiago Robles <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;Alejandro+Taboada;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;Alejandro+Taboada.;"></a>
 </p>
 
 
-## Skills
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> 
- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/G7HwToou_M8AAAAi/spider-man-swing.gif" />
+
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
+
+Soy estudiante de la carrera universitaria de Programacion, proximo a recibirme este año. Soy bueno en C#,, Python y Javascript. Me encanta aprender y crear algo nuevo, productivo, innovador y creativo.
+* **Me interesa el desarrolo de aplicaciones de escritorio, el desarrollo de Android y el marketing digital**
+- 🌱 Actualmente estoy aprendiendo...
+- C#
+- React js
+- 👯 Espero colaborar en proyectos de código abierto.
+- ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar. 😉<br>
+- Fuera de la tecnología, 📖 me encanta leer , 🖌️ pintar y dibujar, 🎵 escuchar música e 🏋🏽 ir al gimnasio.
+- 📫 Comunícate conmigo a: <a href="thiagorobles3@gmail.com">thiagorobles3@gmail.com</a>
+
+
+
+## Mis habilidades
+
+<h4> Lenguajes </h4>
+<span> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
+
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+
+</span>
+
+<h4> DB </h4>
+<span>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+  
+
+  
+</span>
+
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+
+<h4> Otras Herramientas y Tecnologias </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+</span>
+
+## Checkea mis Redes
+<a href="https://www.instagram.com/isstitooo/?hl=es">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+
+<a href="https://www.linkedin.com/in/thiago-robles-33a43631a/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+
+
