@@ -1,4 +1,4 @@
-<h1 align="center">Hola , soy Thiago Robles. Programador Universitario <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hola soy Thiago Robles, Programador Universitario <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;Alejandro+Taboada.;"></a>
@@ -9,14 +9,11 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre Mi***
 
-Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a recibirme este año. Me gustan los lenguajes fuertemente tipados como C# pero tambien me apasiona programar con Javascript o Python. Me encanta seguir aprendiendo y mejorando cara dia para aprender nuevas cosas.
+Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a recibirme este año. Me gustan los lenguajes fuertemente tipados como C# pero tambien me apasiona programar con Javascript o Python. Me encanta el mundo de la programacion, seguir aprendiendo y mejorar cara dia para aprender nuevas cosas.
+
 * **Me interesa el desarrolo de aplicaciones de escritorio y el desarrollo web**
-- C#
-- React js
 
 - 📫 Comunícate conmigo a: <a href="roblessthiago21@gmail.com">roblessthiago21@gmail.com</a>
-
-
 
 ## Mis habilidades
 
