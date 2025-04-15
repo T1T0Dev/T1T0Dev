@@ -63,7 +63,7 @@
 
 ---
 
-## 🐾 GIF divertido de Programación
+## 
 
 ![Programando con un gatito](https://media.giphy.com/media/2yyLHiF9x3mls/giphy.gif)
 
