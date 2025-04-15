@@ -18,7 +18,7 @@ Soy estudiante de la carrera de Programación en la UTN-FRT, próximo a recibirm
 
 También disfruto programar en JavaScript y TypeScript, explorando el desarrollo web moderno y creando interfaces dinámicas. Me considero una persona autodidacta, con curiosidad constante por aprender nuevas tecnologías y buenas prácticas de programación.
 
-##👨‍💻 He trabajado en proyectos personales como:
+👨‍💻 He trabajado en proyectos personales como:
 
 - Sistemas de facturación para negocios locales (mercería, panadería)
 
