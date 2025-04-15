@@ -5,9 +5,10 @@
 </p>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/G7HwToou_M8AAAAi/spider-man-swing.gif" />
+<img align="right" width=300px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtcHFmODRvaGh4NGlheXYwNTg0OHRkOXRsdHVtMWZkaWViOGFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
- ***Sobre Mi***
+ 
+ ## Sobre mi
 Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a recibirme este año. Me gustan los lenguajes fuertemente tipados como C# pero tambien me apasiona programar con Javascript o Python. Me encanta el mundo de la programacion, seguir aprendiendo y mejorar cara dia para aprender nuevas cosas.
 
 * **Me interesa el desarrolo de aplicaciones de escritorio y el desarrollo web**
