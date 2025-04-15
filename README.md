@@ -12,9 +12,21 @@
 <br>
 
 
-## Sobre mí
+## 💻 Sobre mí
 
-Soy estudiante de la carrera de **Programación** en la **UTN-FRT** y estoy próximo a recibirme este año. Me gustan los lenguajes fuertemente tipados como **C#**, pero también me apasiona programar[...]
+Soy estudiante de la carrera de Programación en la UTN-FRT, próximo a recibirme este año. Me apasiona el desarrollo de software, especialmente trabajar con lenguajes fuertemente tipados como C#, donde he desarrollado múltiples aplicaciones de escritorio usando Windows Forms y SQL Server como base de datos.
+
+También disfruto programar en JavaScript y TypeScript, explorando el desarrollo web moderno y creando interfaces dinámicas. Me considero una persona autodidacta, con curiosidad constante por aprender nuevas tecnologías y buenas prácticas de programación.
+
+##👨‍💻 He trabajado en proyectos personales como:
+
+- Sistemas de facturación para negocios locales (mercería, panadería)
+
+- Aplicaciones con capas de presentación, lógica y datos
+
+- Implementaciones simples de login con control de roles (cliente, empleado, admin)
+
+- Manipulación de bases de datos sin relaciones, adaptado a necesidades reales
 
 > **Intereses:** Desarrollo de aplicaciones de escritorio y desarrollo web.
 
