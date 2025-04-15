@@ -6,12 +6,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=false&vCenter=true&width=400&height=80&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;Alejandro+Taboada." alt="Typing Animation">
     </p>
   </div>
-  <!-- Gif a la derecha -->
-  <div style="float:right; width:35%; text-align:right;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtcHFmODRvaGh4NGlheXYwNTg0OHRkOXRsdHVtMWZkaWViOGFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Saludo" style="width:100%; max-width:150px;">
-  </div>
-</div>
-<div style="clear:both;"></div>
+
 
 ---
 
