@@ -65,7 +65,7 @@
 
 ## 
 
-![Programando con un gatito](https://media.giphy.com/media/2yyLHiF9x3mls/giphy.gif)
+![Logo](blob:https://web.whatsapp.com/83f0d232-54ac-4d82-b06a-0efee112ac9b)
 
 ---
 
