@@ -5,10 +5,10 @@
 </p>
 
 
-<img align="right" width=350px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtcHFmODRvaGh4NGlheXYwNTg0OHRkOXRsdHVtMWZkaWViOGFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width=380px alt="Programming" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhtcHFmODRvaGh4NGlheXYwNTg0OHRkOXRsdHVtMWZkaWViOGFyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
  
- ## Sobre mi
+**Sobre mi**
 Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a recibirme este año. Me gustan los lenguajes fuertemente tipados como C# pero tambien me apasiona programar con Javascript o Python. Me encanta el mundo de la programacion, seguir aprendiendo y mejorar cara dia para aprender nuevas cosas.
 
 * **Me interesa el desarrolo de aplicaciones de escritorio y el desarrollo web**
@@ -17,7 +17,7 @@ Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a 
 
 - Visita mi portafolio actual en: <a href="https://t1t0r.github.io/PORTAFOLIO/">https://t1t0r.github.io/PORTAFOLIO/</a>
 
-## Mis habilidades
+**Mis habilidades**
 
 <h4> Lenguajes </h4>
 <span> 
@@ -28,7 +28,7 @@ Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
 </span>
 
-<h4> Frameworks </h4>
+**Frameworks**
 <span>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -40,7 +40,7 @@ Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a 
 
 </span>
 
-<h4> DB </h4>
+**DB**
 <span>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
@@ -48,13 +48,13 @@ Soy estudiante de la carrera universitaria de Programacion (UTN-FRT), proximo a 
   
 </span>
 
-<h4> IDE </h4>
+**IDE**
 <span>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 
-<h4> Otras Herramientas y Tecnologias </h4>
+**Otras Herramientas y Tecnologias**
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
