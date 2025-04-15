@@ -3,7 +3,7 @@
   <div style="float:left; width:60%;">
     <h1 style="font-size:1.2rem; margin:0;">Hola, soy Thiago Robles,<br>Programador Universitario</h1>
     <p style="margin:0.5rem 0;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=false&vCenter=true&width=400&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;" alt="Typing Animation">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=20&center=false&vCenter=true&width=400&height=90&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;" alt="Typing Animation">
     </p>
   </div>
 
