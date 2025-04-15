@@ -63,6 +63,12 @@
 
 ---
 
+## 🐾 GIF divertido de Programación
+
+![Programando con un gatito](https://media.giphy.com/media/2yyLHiF9x3mls/giphy.gif)
+
+---
+
 ## 🌐 Mis Redes Sociales
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/isstitooo/?hl=es)
