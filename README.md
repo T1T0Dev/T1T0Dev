@@ -65,7 +65,7 @@
 
 ## 
 
-![Logo](blob:https://web.whatsapp.com/83f0d232-54ac-4d82-b06a-0efee112ac9b)
+![logotito](https://github.com/user-attachments/assets/3aa55378-86bd-435d-be5d-120211d70f7f)
 
 ---
 
