@@ -26,7 +26,7 @@
 
 🌐 **Curriculum**: [Thiago_Robles.pdf](https://github.com/user-attachments/files/19923156/Thiago_Robles.pdf)
 
-<a href="mailto:roblessthiago21@gmail.com" style="display:inline-block; padding:10px 15px; background-color:#0078D4; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">📩 Contáctame</a>
+[📩 Contáctame](mailto:roblessthiago21@gmail.com)
 
 ---
 
@@ -59,12 +59,6 @@
 
 ### 🔧 Otras Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 
-
-![logotito](https://github.com/user-attachments/assets/3aa55378-86bd-435d-be5d-120211d70f7f)
 
 ---
 
