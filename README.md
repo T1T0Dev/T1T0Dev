@@ -75,6 +75,6 @@
 Aquí algunos de mis proyectos publicados. ¡Seguime que se vienen más! 🌍🛠️
 
 - 🌎 [The World API](https://the-world-api.vercel.app) – API de países con datos geográficos, ideal para practicar fetch, diseño responsivo y manejo de datos JSON.
-- 🧑‍🎨 [Portafolio Web](portafolio-khaki-kappa.vercel.app) – Sitio hecho desde cero con HTML5, CSS3 y JavaScript Vanilla. Diseño responsivo y animaciones suaves. 
+- 🧑‍🎨 [Portafolio Web](https://portafolio-khaki-kappa.vercel.app/) – Sitio hecho desde cero con HTML5, CSS3 y JavaScript Vanilla. Diseño responsivo y animaciones suaves. 
 
 
