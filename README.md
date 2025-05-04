@@ -14,7 +14,7 @@
 
 💻 Me apasiona el desarrollo de software, especialmente trabajar con lenguajes **fuertemente tipados** como **C#**, en los que he desarrollado múltiples **aplicaciones de escritorio** utilizando **Windows Forms** y **SQL Server** como base de datos.
 
-🌐 También disfruto programar en **JavaScript** y **TypeScript**, explorando el desarrollo web moderno con herramientas como **React**, **Node.js** y **Tailwind CSS**. Me considero un **autodidacta curioso**, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
+🌐 También disfruto programar en **JavaScript** y **TypeScript**, explorando el desarrollo web moderno con herramientas como **React** y **Node.js**. Me considero un **autodidacta curioso**, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
 
 🛠️ **Proyectos personales destacados**:
 - Sistemas de facturación para negocios locales (mercería, panadería).
