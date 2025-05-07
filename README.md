@@ -73,6 +73,6 @@
 Aquí algunos de mis proyectos publicados. ¡Seguime que se vienen más! 🌍🛠️
 
 - 🌎 [The World API](https://the-world-api.vercel.app) – API de países con datos geográficos, ideal para practicar fetch, diseño responsivo y manejo de datos JSON.
-- 🧑‍🎨 [Portafolio Web](https://tito-dev.vercel.app/) 
+- 🧑‍🎨 [Portafolio Web](https://titodev.vercel.app/) - Conoceme a través de mi portafolio 😄
 
 
