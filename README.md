@@ -27,7 +27,8 @@
 🌐 **Curriculum**:
 [Thiago_Robles.pdf](https://github.com/user-attachments/files/19923156/Thiago_Robles.pdf)
 
-[**✉️ CONTACTAME**](mailto:roblessthiago21@gmail.com)
+**✉️ CONTACTAME**:
+[Contacto](mailto:roblessthiago21@gmail.com)
 
 ---
 
