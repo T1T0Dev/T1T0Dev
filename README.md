@@ -23,7 +23,7 @@
 
 🔍 **Intereses**: desarrollo de apps de escritorio, desarrollo web fullstack, diseño de interfaces funcionales.
 
-📄 [**CURRICULUM**](https://github.com/user-attachments/files/19923156/Thiago_Robles.pdf)  
+📄 [**CURRICULUM**](https://drive.google.com/file/d/1xPUjKOo9pTvRark5Q2DaIQnvWs9Dju9K/view?usp=sharing)  
 📧 [**CONTACTAME**](mailto:roblessthiago21@gmail.com)
 
 ---
