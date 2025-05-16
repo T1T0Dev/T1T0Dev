@@ -1,32 +1,30 @@
 <h1 align="center"><b>Hola, soy Thiago Robles – Programador Universitario</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;ALEJANDRO+TABOADA;%3C%2F%3E">
-</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;ALEJANDRO+TABOADA;%3C%2F%3E">
+  </a>
 </p>
 
 ---
 
 ## 🧑‍💼 Sobre mí
 
-🎓 Soy estudiante de la carrera de **Programación** en la **UTN-FRT**, próximo a recibirme este año.
+🎓 Soy estudiante de **Programación** en la **UTN-FRT**, próximo a recibirme este año.  
+💻 Me apasiona el desarrollo de software, especialmente con lenguajes **fuertemente tipados** como **C#**.  
+🌐 También disfruto trabajar con **JavaScript**, **TypeScript**, **React** y **Node.js**.  
+📚 Soy un autodidacta curioso, siempre buscando mejorar y aprender nuevas tecnologías.
 
-💻 Me apasiona el desarrollo de software, especialmente trabajar con lenguajes **fuertemente tipados** como **C#**, en los que he desarrollado múltiples **aplicaciones de escritorio** utilizando **Windows Forms** y **SQL Server** como base de datos.
-
-🌐 También disfruto programar en **JavaScript** y **TypeScript**, explorando el desarrollo web moderno con herramientas como **React** y **Node.js**. Me considero un **autodidacta curioso**, siempre buscando mejorar mis habilidades y aprender nuevas tecnologías.
-
-🛠️ **Proyectos personales destacados**:
+🛠️ **Proyectos destacados**:
 - Sistemas de facturación para negocios locales (mercería, panadería).
 - Aplicaciones por capas: presentación, lógica y datos.
 - Login con múltiples roles (cliente, empleado, admin).
 - Bases de datos simples sin relaciones, adaptadas a necesidades reales.
 
-🔍 **Intereses**: desarrollo de aplicaciones de escritorio, desarrollo web fullstack, y diseño de interfaces funcionales.
+🔍 **Intereses**: desarrollo de apps de escritorio, desarrollo web fullstack, diseño de interfaces funcionales.
 
-[🌐 **CURRICULUM**](https://github.com/user-attachments/files/19923156/Thiago_Robles.pdf)
-
-[**✉️ CONTACTAME**](mailto:roblessthiago21@gmail.com)
+📄 [**CURRICULUM**](https://github.com/user-attachments/files/19923156/Thiago_Robles.pdf)  
+📧 [**CONTACTAME**](mailto:roblessthiago21@gmail.com)
 
 ---
 
@@ -60,19 +58,15 @@
 
 ---
 
-## 🌐 Mis Redes Sociales
+## 🌐 Redes Sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tito-dev/)
 
 ---
 
----
-
 ## 🚀 Proyectos
 
-Aquí algunos de mis proyectos publicados. ¡Seguime que se vienen más! 🌍🛠️
+Estos son algunos de mis proyectos destacados. ¡Seguime que se vienen más! 🌍🛠️
 
 - 🌎 [The World API](https://the-world-api.vercel.app) – API de países con datos geográficos, ideal para practicar fetch, diseño responsivo y manejo de datos JSON.
 - 🧑‍🎨 [Portafolio Web](https://titodev.vercel.app/) - Conoceme a través de mi portafolio 😄
-
-
