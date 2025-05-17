@@ -93,10 +93,19 @@ Here are some of my featured projects. More coming soon! 🚀
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=tokyonight&hide_title=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=tokyonight&hide_title=true" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=tokyonight" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 ## 🐍 Snake GitHub Contributions
 
