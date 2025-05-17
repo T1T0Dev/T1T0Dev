@@ -96,7 +96,3 @@ Here are some of my featured projects. More coming soon! 🚀
 </table>
 
 ---
-
-## 🐍 Snake GitHub Contributions
-
-![snake gif](https://github.com/T1T0Dev/T1T0Dev/blob/output/github-contribution-grid-snake.svg)
