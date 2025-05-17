@@ -10,26 +10,17 @@
 
 ## 🧑‍💼 Sobre mí / About Me
 
-🎓 Estudiante de **Programación** en la **UTN-FRT**, próximo a recibirme este año.  
 🎓 I'm a **Programming** student at **UTN-FRT**, graduating this year.  
-💻 Apasionado por el desarrollo de software, especialmente con lenguajes **fuertemente tipados** como **C#**.  
 💻 I'm passionate about software development, especially with **strongly typed** languages like **C#**.  
-🌐 También disfruto trabajar con **JavaScript**, **TypeScript**, **React** y **Node.js**.  
 🌐 I also enjoy working with **JavaScript**, **TypeScript**, **React**, and **Node.js**.  
-📚 Autodidacta curioso, siempre buscando mejorar y aprender nuevas tecnologías.  
 📚 A curious autodidact, always looking to improve and learn new technologies.
 
 🛠️ **Proyectos destacados / Featured Projects**:
 - Sistemas de facturación para negocios locales (mercería, panadería).  
-  Billing systems for local businesses (haberdashery, bakery).  
 - Aplicaciones por capas: presentación, lógica y datos.  
-  Layered applications: presentation, logic, and data.  
 - Login con múltiples roles (cliente, empleado, admin).  
-  Multi-role login (client, employee, admin).  
-- Bases de datos simples sin relaciones, adaptadas a necesidades reales.  
-  Simple databases without relationships, adapted to real needs.
+- Bases de datos relacionales, adaptadas a necesidades reales.  
 
-🔍 **Intereses / Interests**: apps de escritorio, desarrollo web fullstack, diseño de interfaces funcionales.  
 🔍 Desktop apps, fullstack web dev, and functional UI design.
 
 📄 [**CURRÍCULUM / RESUME**](https://drive.google.com/file/d/1xPUjKOo9pTvRark5Q2DaIQnvWs9Dju9K/view?usp=sharing)  
