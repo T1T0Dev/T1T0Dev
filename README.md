@@ -37,14 +37,14 @@
 
 ## 🚀 Featured Projects / Proyectos Destacados
 
-| Proyecto               | Tech Stack             | Descripción (ES / EN)                                    |
-| :--------------------: | :--------------------: | :------------------------------------------------------- |
-| 🌎 **The World API**   | Node.js, Express, REST | ES: API de países con fetch y JSON.  
-EN: Countries API with fetch & JSON. |
-| 💼 **Billing System**  | C#, SQL Server         | ES: Sistema de facturación para negocios locales.  
-EN: Billing app for small biz.   |
-| 🌐 **Web Portfolio**   | React, Vite, Tailwind  | ES: Mi portafolio personal.  
-EN: My personal portfolio.      |
+| Proyecto                                                                                    | Tech Stack                           | Descripción (ES / EN)                                                             |
+| ------------------------------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------- |
+| 🛍️ **DREKKZ INDUMENTARIA**                                                                 | React, Vite, Node.js, Express, MySQL | ES: E-commerce full stack con login de roles, carrito, CRUDs y gestión de ventas. |
+| EN: Full stack e-commerce with role-based login, cart, CRUD operations, and sales tracking. |                                      |                                                                                   |
+| 🍱 **Tu Vianda**                                                                            | React, WhatsApp API, Vite            | ES: Landing publicitaria y sistema de pedidos para emprendimiento de viandas.     |
+| EN: Marketing landing page and order system for a homemade meal business.                   |                                      |                                                                                   |
+| 💼 **Billing System**                                                                       | C#, SQL Server                       | ES: Sistema de facturación de escritorio con gestión de clientes y productos.     |
+| EN: Desktop billing app with customer and product management.                               |                                      |                                                                                   |
 
 ---
 
