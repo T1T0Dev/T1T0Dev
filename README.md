@@ -23,8 +23,6 @@
 
 - 🎓 **ES**: Estudiante de **Programación** en UTN-FRT, graduándome este año.  
   **EN**: Programming student at UTN-FRT, graduating this year.  
-- 💻 **ES**: Apasionado por Javascript.  
-  **EN**: Passionate about Javascript.  
 - 🌐 **ES**: También le meto a JavaScript, TypeScript, React y Node.js.  
   **EN**: Also dabbling in JavaScript, TypeScript, React & Node.js.  
 - ☕ **ES**: Fan del café, gym y buen código.  
