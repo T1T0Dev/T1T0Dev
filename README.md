@@ -23,8 +23,8 @@
 
 - 🎓 **ES**: Estudiante de **Programación** en UTN-FRT, graduándome este año.  
   **EN**: Programming student at UTN-FRT, graduating this year.  
-- 💻 **ES**: Apasionado por C# y lenguajes fuertemente tipados.  
-  **EN**: Passionate about C# and strongly-typed languages.  
+- 💻 **ES**: Apasionado por Javascript.  
+  **EN**: Passionate about Javascript.  
 - 🌐 **ES**: También le meto a JavaScript, TypeScript, React y Node.js.  
   **EN**: Also dabbling in JavaScript, TypeScript, React & Node.js.  
 - ☕ **ES**: Fan del café, gym y buen código.  
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C%23-232F3E?style=for-the-badge&logo=csharp" alt="C#"/>
+ 
 </div>
 
 <div align="center" style="margin-top: 8px;">
