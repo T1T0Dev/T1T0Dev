@@ -23,8 +23,8 @@
 
 - 🎓 **ES**: Estudiante de **Programación** en UTN-FRT, graduándome este año.  
   **EN**: Programming student at UTN-FRT, graduating this year.  
-- 🌐 **ES**: También le meto a JavaScript, TypeScript, React y Node.js.  
-  **EN**: Also dabbling in JavaScript, TypeScript, React & Node.js.  
+🌐 ES: Me especializo en desarrollo web con JavaScript (React, Node.js), aunque también he trabajado con C# para apps de escritorio.
+EN: I specialize in web development with JavaScript (React, Node.js), though I've also built desktop apps using C#.
 - ☕ **ES**: Fan del café, gym y buen código.  
   **EN**: Big fan of coffee, gym gains, and clean code.
 
