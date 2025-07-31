@@ -25,38 +25,35 @@
 </p>
 
 <p align="center">
-  📫 roblessthiago21@gmail.com  
-  <a href="https://titodev.vercel.app" target="_blank">🌐 Portfolio WEB</a>
+  📫 roblessthiago21@gmail.com •  
+  🌐 <a href="https://titodev.vercel.app" target="_blank">Portfolio Web</a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects / Proyectos Destacados
 
-<p align="center">
-  <!-- DREKKZ INDUMENTARIA -->
-  <a href="https://github.com/T1T0Dev/E-COMMERCE" style="margin:0 20px;">
-    <img src="https://github.com/user-attachments/assets/4cd733b2-1e5d-4e00-b11b-d6526573a577"
-     width="250" alt="DREKKZ INDUMENTARIA" />
-    <br>
-    <strong>DREKKZ INDUMENTARIA</strong>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
+
+  <!-- Project Card 1 -->
+  <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/4cd733b2-1e5d-4e00-b11b-d6526573a577" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="DREKKZ INDUMENTARIA" />
+    <p align="center"><strong>DREKKZ INDUMENTARIA</strong></p>
   </a>
 
-  <!-- Tu Vianda -->
-  <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" style="margin:0 20px;">
-    <img src="https://github.com/user-attachments/assets/dd966c6c-8e15-46a4-920f-0773b12c6d24"
-width="250" alt="Tu Vianda" />
-    <br>
-    <strong>Tu Vianda</strong>
+  <!-- Project Card 2 -->
+  <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/dd966c6c-8e15-46a4-920f-0773b12c6d24" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="Tu Vianda" />
+    <p align="center"><strong>Tu Vianda</strong></p>
   </a>
 
-  <!-- Billing System -->
-  <a href="https://github.com/T1T0Dev/KioscoApp" style="margin:0 20px;">
-    <img src="https://github.com/user-attachments/assets/376f1f69-ae07-4f9d-8037-92b116f8c6d7"/>
-    <br>
-    <strong>Billing System</strong>
+  <!-- Project Card 3 -->
+  <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/user-attachments/assets/376f1f69-ae07-4f9d-8037-92b116f8c6d7" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="Billing System" />
+    <p align="center"><strong>Billing System</strong></p>
   </a>
-</p>
+
+</div>
 
 <p align="center">
   <em>
@@ -75,30 +72,27 @@ width="250" alt="Tu Vianda" />
     <tr>
       <td align="center">
         <strong>Languages</strong><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
       </td>
       <td align="center">
         <strong>Frontend</strong><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" alt="React" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" alt="Vite" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma" alt="Figma" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite" />
       </td>
       <td align="center">
         <strong>Backend</strong><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express" alt="Express" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net" alt=".NET" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c%23" alt="C#" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js" />
+        <img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express" />
       </td>
       <td align="center">
         <strong>Databases & Tools</strong><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" alt="MySQL" />
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server" alt="SQL Server" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" alt="Git" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" />
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
       </td>
     </tr>
   </table>
@@ -109,8 +103,8 @@ width="250" alt="Tu Vianda" />
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -118,13 +112,10 @@ width="250" alt="Tu Vianda" />
 ## 📱 Connect with Me / Conéctate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tito-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/T1T0Dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/tito-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="box-shadow: 0 4px 10px rgba(0,0,0,0.3);" />
   </a>
 </p>
 
-> “Si puedes imaginarlo, puedes programarlo.”  
-> “If you can imagine it, you can build it.”
+---
+
