@@ -47,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=T1T0Dev&repo=Sistema-Merceria&theme=radical" />
       <br/>
       <a href="https://github.com/T1T0Dev/KioscoApp">
-        <img src=![BillingSystem](https://github.com/user-attachments/assets/ffa2b92b-c057-4bdd-aa0a-f7aa599e9b0d) />
+        <img src="https://github.com/user-attachments/assets/ffa2b92b-c057-4bdd-aa0a-f7aa599e9b0d" />
       </a>
     </td>
   </tr>
