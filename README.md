@@ -30,30 +30,36 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects / Proyectos Destacados
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
+<p align="center">
+  
+  <!-- DREKKZ INDUMENTARIA -->
+  <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/4cd733b2-1e5d-4e00-b11b-d6526573a577" width="260" style="border-radius: 12px;" alt="DREKKZ INDUMENTARIA" />
+    <br>
+    <strong>DREKKZ INDUMENTARIA</strong>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
 
-  <!-- Project Card 1 -->
-  <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/4cd733b2-1e5d-4e00-b11b-d6526573a577" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="DREKKZ INDUMENTARIA" />
-    <p align="center"><strong>DREKKZ INDUMENTARIA</strong></p>
+  <!-- Tu Vianda -->
+  <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/dd966c6c-8e15-46a4-920f-0773b12c6d24" width="260" style="border-radius: 12px;" alt="Tu Vianda" />
+    <br>
+    <strong>Tu Vianda</strong>
   </a>
 
-  <!-- Project Card 2 -->
-  <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/dd966c6c-8e15-46a4-920f-0773b12c6d24" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="Tu Vianda" />
-    <p align="center"><strong>Tu Vianda</strong></p>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Billing System -->
+  <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank" style="text-decoration: none; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/376f1f69-ae07-4f9d-8037-92b116f8c6d7" width="260" style="border-radius: 12px;" alt="Billing System" />
+    <br>
+    <strong>Billing System</strong>
   </a>
 
-  <!-- Project Card 3 -->
-  <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/user-attachments/assets/376f1f69-ae07-4f9d-8037-92b116f8c6d7" width="260" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" alt="Billing System" />
-    <p align="center"><strong>Billing System</strong></p>
-  </a>
-
-</div>
+</p>
 
 <p align="center">
   <em>
@@ -62,6 +68,8 @@
     • Desktop billing app (C#)
   </em>
 </p>
+
+
 
 ---
 
