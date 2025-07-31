@@ -20,13 +20,13 @@
 
 <p align="center">
   🎓 Programming student at UTN-FRT (Graduating 2025) •  
-  💻 JS (React, Node.js) & C# lover •  
+  💻 JS (React, Node.js) & ⚛️ React lover •  
   ☕ Coffee, gym & clean code enthusiast
 </p>
 
 <p align="center">
   📫 roblessthiago21@gmail.com  
-  <a href="https://titodev.vercel.app" target="_blank">🌐 titodev.vercel.app</a>
+  <a href="https://titodev.vercel.app" target="_blank">🌐 Portfolio WEB</a>
 </p>
 
 ---
@@ -35,22 +35,24 @@
 
 <p align="center">
   <!-- DREKKZ INDUMENTARIA -->
-  <a href="https://github.com/T1T0Dev/drekkz-indumentaria" style="margin:0 20px;">
-    <img src="https://via.placeholder.com/250x150.png?text=DREKKZ+Preview" width="250" alt="DREKKZ INDUMENTARIA" />
+  <a href="https://github.com/T1T0Dev/E-COMMERCE" style="margin:0 20px;">
+    <img src="https://github.com/user-attachments/assets/4cd733b2-1e5d-4e00-b11b-d6526573a577"
+     width="250" alt="DREKKZ INDUMENTARIA" />
     <br>
     <strong>DREKKZ INDUMENTARIA</strong>
   </a>
 
   <!-- Tu Vianda -->
-  <a href="https://github.com/T1T0Dev/tu-vianda" style="margin:0 20px;">
-    <img src="https://via.placeholder.com/250x150.png?text=Tu+Vianda+Preview" width="250" alt="Tu Vianda" />
+  <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" style="margin:0 20px;">
+    <img src="https://github.com/user-attachments/assets/dd966c6c-8e15-46a4-920f-0773b12c6d24"
+width="250" alt="Tu Vianda" />
     <br>
     <strong>Tu Vianda</strong>
   </a>
 
   <!-- Billing System -->
-  <a href="https://github.com/T1T0Dev/billing-system" style="margin:0 20px;">
-    <img src="https://via.placeholder.com/250x150.png?text=Billing+System+Preview" width="250" alt="Billing System" />
+  <a href="https://github.com/T1T0Dev/KioscoApp" style="margin:0 20px;">
+    <img src="https://github.com/user-attachments/assets/376f1f69-ae07-4f9d-8037-92b116f8c6d7"/>
     <br>
     <strong>Billing System</strong>
   </a>
