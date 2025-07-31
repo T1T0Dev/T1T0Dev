@@ -62,3 +62,20 @@
 <div align="center"> <table> <tr> <td> <img src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" /> </td> <td> <img src="https://github-readme-streak-stats.herokuapp.com/?user=T1T0Dev&theme=radical" alt="Racha de contribuciones" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical" alt="Lenguajes más usados" /> </td> </tr> </table> </div>
 
 ---
+
+## 👨🏻‍💻 Visit my LinkeDin / Visita mi LinkeDin
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/Visita%20mi%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+<img alt="github-snake" src="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake.svg" style="visibility: visible; max-width: 100%;">
+
+---
+
+
+
