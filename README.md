@@ -46,8 +46,8 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=T1T0Dev&repo=Sistema-Merceria&theme=radical" />
       <br/>
-      <a href="https://github.com/T1T0Dev/Sistema-Merceria">
-        <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/T1T0Dev/KioscoApp">
+        <img src=![BillingSystem](https://github.com/user-attachments/assets/ffa2b92b-c057-4bdd-aa0a-f7aa599e9b0d) />
       </a>
     </td>
   </tr>
