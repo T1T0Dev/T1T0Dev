@@ -30,24 +30,25 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T1T0Dev&repo=ESTIMULAR-sys&theme=radical" />
+      <img src="https://github.com/user-attachments/assets/1ba30263-95e5-44b5-b6fc-58973ee437e8"
+ />
       <br/>
-      <a href="https://github.com/T1T0Dev/ESTIMULAR-sys">
+      <a href="https://github.com/T1T0Dev/E-COMMERCE">
         <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T1T0Dev&repo=PORTAFOLIOT1T0&theme=radical" />
+      <img src="https://github.com/user-attachments/assets/681cd9ea-d1f7-47ac-a459-659ce6b9fbff"/>
       <br/>
-      <a href="https://github.com/T1T0Dev/PORTAFOLIOT1T0">
+      <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT">
         <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=T1T0Dev&repo=Sistema-Merceria&theme=radical" />
+      <img src="https://github.com/user-attachments/assets/ffa2b92b-c057-4bdd-aa0a-f7aa599e9b0d"/>
       <br/>
       <a href="https://github.com/T1T0Dev/KioscoApp">
-        <img src="https://github.com/user-attachments/assets/ffa2b92b-c057-4bdd-aa0a-f7aa599e9b0d" />
+      <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
   </tr>
