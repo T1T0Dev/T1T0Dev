@@ -17,7 +17,7 @@
 ## 🛠️ Tecnologías que uso / Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,cs,dotnet,sqlite,mysql,mongodb,git,github,vscode,visualstudio" alt="tech-stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,react,vite,nodejs,express,dotnet,sqlite,mysql,mongodb,git,github,vscode,visualstudio" alt="tech-stack"/>
 </p>
 
 ---
