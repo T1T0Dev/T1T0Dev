@@ -22,6 +22,21 @@
 
 ---
 
+## 👨🏻‍💻 Visita mi LinkedIn y Portafolio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
+    <img src="https://img.shields.io/badge/Visita%20mi%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://titooo.dev.ar/" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20Portafolio-00C897?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+
+---
+
 ## 📂 Proyectos Destacados / Featured Projects
 
 <div align="center">
@@ -78,22 +93,6 @@
 
 ---
 
-## 👨🏻‍💻 Visita mi LinkedIn y Portafolio
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img src="https://img.shields.io/badge/Visita%20mi%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.shields.io/badge/Mi%20Portafolio-00C897?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-
----
-
-## 🐍 GitHub Snake
 
 <p align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake.svg" />
