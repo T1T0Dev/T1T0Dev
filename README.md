@@ -22,21 +22,19 @@
 
 ---
 
-## 👨🏻‍💻 Visita mi LinkedIn y Portafolio !!!
+## 👨🏻‍💻 Visita mi LinkedIn, Portafolio y CV
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/tito-dev" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Visita%20mi%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="https://titooo.dev.ar/" target="_blank">
+  <a href="https://titooo.dev.ar/" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-00C897?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
-<a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank" style="margin: 10px;">
     <img src="https://img.shields.io/badge/Mi%20CV-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
-</a>
+  </a>
 </p>
-
 
 ---
 
