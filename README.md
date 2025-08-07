@@ -22,7 +22,7 @@
 
 ---
 
-## 👨🏻‍💻 Visita mi LinkedIn y Portafolio
+## 👨🏻‍💻 Visita mi LinkedIn y Portafolio !!!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
@@ -32,6 +32,9 @@
   <a href="https://titooo.dev.ar/" target="_blank">
     <img src="https://img.shields.io/badge/Mi%20Portafolio-00C897?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
+<a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
+CURRICULUM
+</a>
 </p>
 
 
