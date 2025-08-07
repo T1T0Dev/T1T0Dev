@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Mi%20Portafolio-00C897?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio" />
   </a>
 <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
-CURRICULUM
+    <img src="https://img.shields.io/badge/Mi%20CV-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV" />
 </a>
 </p>
 
