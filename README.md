@@ -44,12 +44,11 @@
         <img src="https://github.com/user-attachments/assets/f11fd988-42e6-4466-9fb6-49e866be3ab7" alt="E-COMMERCE" height="150"/>
         <br />
         <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
-               alt="Ver E-COMMERCE" />
+          <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver E-COMMERCE" />
         </a>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/T1T0Dev/TU-VIANDA-REACT/main/preview.png" alt="TU-VIANDA-REACT" height="150"/>
+        <img src=<img width="811" height="1600" alt="image" src="https://github.com/user-attachments/assets/e03e7acf-d6b6-46c9-aaaa-2bc0070a0673" alt="TU-VIANDA-REACT"     height="150"/>
         <br />
         <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
@@ -57,7 +56,8 @@
         </a>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/T1T0Dev/KioscoApp/main/preview.png" alt="KioscoApp" height="150"/>
+        <img <img width="460" height="450" alt="image" src="https://github.com/user-attachments/assets/8c0f9f45-7892-4858-81ce-1d64aa49f329" />
+  alt="KioscoApp" height="150"/>
         <br />
         <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
