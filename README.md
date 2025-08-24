@@ -45,7 +45,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/1ba30263-95e5-44b5-b6fc-58973ee437e8" width="250" />
+      <img src="https://github.com/user-attachments/assets/73cdb932-e143-47f2-afef-975c74eae3f5" width="250" />
       <br />
       <a href="https://github.com/T1T0Dev/E-COMMERCE">
         <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white" />
