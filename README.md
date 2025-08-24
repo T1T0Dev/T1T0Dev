@@ -75,17 +75,10 @@
 
 ## 📈 Estadísticas de GitHub
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical"
-    alt="GitHub Stats" />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=T1T0Dev&theme=radical"
-    alt="GitHub Streak" />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical"
-    alt="Top Languages" />
-</div>
+| 📊 GitHub Stats                                                                                       | 🔥 GitHub Streak                                                                                      | 🏆 Top Languages                                                                                          |
+|:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T1T0Dev&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical) |
+
 
 ---
 
