@@ -41,7 +41,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/T1T0Dev/E-COMMERCE/main/preview.png" alt="E-COMMERCE" height="150"/>
+        <img src="https://github.com/user-attachments/assets/f11fd988-42e6-4466-9fb6-49e866be3ab7" alt="E-COMMERCE" height="150"/>
         <br />
         <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
