@@ -93,7 +93,7 @@
   &nbsp;&nbsp;&nbsp;
   <!-- Portfolio -->
   <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-web-development-web-development-itim2101-flat-itim2101.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/fluency/64/domain.png" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- CV -->
