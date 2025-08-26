@@ -1,9 +1,10 @@
 <h1 align="center">¡Hola! Soy Thiago 👋</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=00FFFF&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;IF+YOU+CAN+IMAGINE+IT,+YOU+CAN+BUILD+IT"
-    alt="typing-effect" />
+   <img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F7DF1E&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;IF+YOU+CAN+IMAGINE+IT,+YOU+CAN+BUILD+IT"
+  alt="typing-effect" />
+
 </p>
 
 ---
@@ -75,9 +76,9 @@
 
 ## 📈 Estadísticas de GitHub
 
-| 📊 GitHub Stats                                                                                       | 🔥 GitHub Streak                                                                                      | 🏆 Top Languages                                                                                          |
+| 📊 GitHub Stats                                                                                       | 🏆 Top Languages                                                                                          |
 |:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=T1T0Dev&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical) |
 
 
 ---
