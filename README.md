@@ -88,28 +88,19 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <br/>
-  <b>[ LinkedIn ]</b> → <a href="https://www.linkedin.com/in/tito-dev" target="_blank">Mi perfil profesional</a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <!-- Portfolio -->
   <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/48/000000/external-web-development-web-development-itim2101-flat-itim2101.png" alt="Portfolio"/>
+    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/000000/external-web-development-web-development-itim2101-flat-itim2101.png" alt="Portfolio" />
   </a>
-  <br/>
-  <b>[ Portafolio ]</b> → <a href="https://titooo.dev.ar/" target="_blank">Mi sitio personal</a>
-</p>
-
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <!-- CV -->
   <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Curriculum"/>
+    <img src="https://img.icons8.com/color/64/000000/resume.png" alt="Curriculum" />
   </a>
-  <br/>
-  <b>[ Currículum ]</b> → <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">Descargar PDF</a>
 </p>
+
 
 
