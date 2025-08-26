@@ -76,8 +76,8 @@
 
 ## 📈 Estadísticas de GitHub
 
-| 📊 GitHub Stats                                                                                       | 🏆 Top Languages                                                                                          |
-|:-----------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------:|
+| 📊 GitHub Stats | 🏆 Top Languages |
+|:---------------:|:----------------:|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical) |
 
 
