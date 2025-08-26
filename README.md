@@ -86,20 +86,30 @@
 ## 🔗 Conectemos
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://titooo.dev.ar/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Portfolio-00C897?style=for-the-badge&logo=web&logoColor=white"
-      alt="Portfolio" />
-  </a>
-  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Currículum-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"
-      alt="CV" />
-  </a>
+  <br/>
+  <b>[ LinkedIn ]</b> → <a href="https://www.linkedin.com/in/tito-dev" target="_blank">Mi perfil profesional</a>
 </p>
+
+<p align="center">
+  <!-- Portfolio -->
+  <a href="https://titooo.dev.ar/" target="_blank">
+    <img src="https://img.icons8.com/external-itim2101-flat-itim2101/48/000000/external-web-development-web-development-itim2101-flat-itim2101.png" alt="Portfolio"/>
+  </a>
+  <br/>
+  <b>[ Portafolio ]</b> → <a href="https://titooo.dev.ar/" target="_blank">Mi sitio personal</a>
+</p>
+
+<p align="center">
+  <!-- CV -->
+  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/resume.png" alt="Curriculum"/>
+  </a>
+  <br/>
+  <b>[ Currículum ]</b> → <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">Descargar PDF</a>
+</p>
+
 
