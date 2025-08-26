@@ -18,6 +18,27 @@
 
 ---
 
+## 🔗 Conectemos
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- Portfolio -->
+  <a href="https://titooo.dev.ar/" target="_blank">
+    <img src="https://img.icons8.com/fluency/64/domain.png" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- CV -->
+  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
+    <img src="https://img.icons8.com/color/64/000000/resume.png" alt="Curriculum" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tecnologías & Herramientas
 
 <p align="center">
@@ -83,24 +104,7 @@
 
 ---
 
-## 🔗 Conectemos
-
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Portfolio -->
-  <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/domain.png" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- CV -->
-  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/resume.png" alt="Curriculum" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake-dark.svg" alt="snake" />
 </p>
-
-
 
