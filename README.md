@@ -11,9 +11,9 @@
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Fullstack apasionado por JS (React, Node.js)  
-- ☕ Fan del café, el gym y el clean code  
-- 🎓 Próximo a recibirme de Programación en UTN-FRT  
-- 🎯 Creo experiencias accesibles, emocionales y escalables para salud y terapia  
+- ☕ Fan del café, el gym y el codigo limpio 
+- 🎓 Próximo a recibirme de Programador en UTN-FRT  
+- 🎯 Creando experiencias accesibles, emocionales y escalables para salud y terapia  
 
 ---
 
