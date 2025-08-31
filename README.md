@@ -18,24 +18,34 @@
 
 ---
 
-## 🔗 Conectemos
+## 🔗 ¡Hablemos y conectemos!
+
+<p align="center">
+  💬 Me encanta crear, aprender y colaborar en proyectos innovadores.  
+  ¡Conectemos y hagamos cosas geniales juntos! 🚀
+</p>
 
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" title="Conectemos en LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- Portfolio -->
   <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/domain.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/fluency/80/domain.png" alt="Portfolio" title="Mira mis proyectos" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <!-- CV -->
-  <a href="https://github.com/user-attachments/files/21672376/Thiago.Robles.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/64/000000/resume.png" alt="Curriculum" />
+  <a href="https://drive.google.com/file/d/17JXQ95GP65YdDmuZwLujwvU4AzeYHGE_/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/color/80/000000/resume.png" alt="Curriculum" title="Descarga mi CV" />
   </a>
 </p>
+
+<p align="center">
+  🌟 Siempre abierto a nuevas oportunidades, colaboración en proyectos interesantes o charlas sobre tecnologia, café y programación.  
+</p>
+
 
 ---
 
