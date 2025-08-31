@@ -52,6 +52,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs&theme=light&size=50" height="50" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express&theme=light&size=50" height="50" alt="Express" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=light&size=50" height="50" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light&size=50" height="50" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=git&theme=light&size=50" height="50" alt="Git" />
   <img src="https://skillicons.dev/icons?i=github&theme=light&size=50" height="50" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=light&size=50" height="50" alt="VS Code" />
