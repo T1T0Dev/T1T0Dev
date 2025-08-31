@@ -72,7 +72,8 @@
         </a>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/e03e7acf-d6b6-46c9-aaaa-2bc0070a0673" alt="TU-VIANDA-REACT" height="150" />
+        <img src="https://github.com/user-attachments/assets/85351b4f-c7b9-4edb-8b31-b20dfe1d79a6"
+ alt="TU-VIANDA-REACT" height="150" />
         <br />
         <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">
           <img
@@ -85,7 +86,8 @@
         <br />
         <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">
           <img
-            src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
+            src="https://github.com/user-attachments/assets/f6affe0b-1ca9-4a8f-bc4c-fac77c56b2b5" width="1179" height="868" alt="lapioxiii" />
+"
             alt="Ver KioscoApp" />
         </a>
       </td>
