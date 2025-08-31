@@ -46,6 +46,7 @@
   <img src="https://skillicons.dev/icons?i=css&theme=light&size=50" height="50" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js&theme=light&size=50" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=ts&theme=light&size=50" height="50" alt="TypeScript" />
+   <img src="https://skillicons.dev/icons?i=csharp&theme=light&size=50" height="50" alt="CSharp" />
   <img src="https://skillicons.dev/icons?i=react&theme=light&size=50" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=nodejs&theme=light&size=50" height="50" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=express&theme=light&size=50" height="50" alt="Express" />
