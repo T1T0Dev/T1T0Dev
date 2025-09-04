@@ -2,7 +2,7 @@
 
 <p align="center">
    <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F7DF1E&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO;IF+YOU+CAN+IMAGINE+IT,+YOU+CAN+BUILD+IT"
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F7DF1E&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO"
   alt="typing-effect" />
 
 </p>
@@ -11,10 +11,10 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador Fullstack apasionado por JS (React, Node.js)  
-- ☕ Fan del café, el gym y el codigo limpio 
-- 🎓 Próximo a recibirme de Programador en UTN-FRT  
-- 🎯 Creando experiencias accesibles, emocionales y escalables para salud y terapia  
+- 💻 Desarrollador Fullstack, amante del ecosistema JS (React, Node.js)  
+- ☕ Fanatico del café, el gimnasio y el codigo limpio 
+- 🎓 Próximo a recibirme de Tec Universitario en Programacion | UTN-FRT  
+- 🎯 Creando softwares accesibles, escalables y mantenibles desde 2024
 
 ---
 
@@ -40,10 +40,6 @@
   <a href="https://drive.google.com/file/d/17JXQ95GP65YdDmuZwLujwvU4AzeYHGE_/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/color/80/000000/resume.png" alt="Curriculum" title="Descarga mi CV" />
   </a>
-</p>
-
-<p align="center">
-  🌟 Siempre abierto a nuevas oportunidades, colaboración en proyectos interesantes o charlas sobre tecnologia, café y programación.  
 </p>
 
 
