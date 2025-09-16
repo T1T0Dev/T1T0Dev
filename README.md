@@ -47,7 +47,7 @@
 
 ## 🛠️ Tecnologías & Herramientas
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html&theme=light&size=50" height="50" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css&theme=light&size=50" height="50" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=js&theme=light&size=50" height="50" alt="JavaScript" />
