@@ -20,12 +20,12 @@
 
 ## 🔗 ¡Hablemos y conectemos!
 
-<p align="center">
+<p align="left">
   💬 Me encanta crear, aprender y colaborar en proyectos innovadores.  
   ¡Conectemos y hagamos cosas geniales juntos! 🚀
 </p>
 
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
     <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" title="Conectemos en LinkedIn" />
