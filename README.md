@@ -12,9 +12,9 @@
 ## 🚀 Sobre mí
 
 - 💻 Desarrollador Fullstack, amante del ecosistema JS (React, Node.js)  
-- ☕ Fanatico del café, el gimnasio y el codigo limpio 
-- 🎓 Próximo a recibirme de Tec Universitario en Programacion | UTN-FRT  
-- 🎯 Creando softwares accesibles, escalables y mantenibles desde 2024
+- 🧉 Fanatico del mate, el gimnasio y el codigo
+- 🎓 Próximo a recibirme de Tecnico Universitario en Programacion | UTN-FRT  
+- 🎯 Creando softwares accesibles, escalables y mantenibles desde mas de 1 año
 
 ---
 
