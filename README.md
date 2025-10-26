@@ -1,119 +1,122 @@
+<!-- Perfil README — Thiago Robles (T1T0Dev) -->
+
 <h1 align="center">¡Hola! Soy Thiago 👨🏻‍💻</h1>
 
 <p align="center">
-   <img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F7DF1E&size=25&center=true&vCenter=true&width=700&height=100&lines=SI+PUEDES+IMAGINARLO,+PUEDES+PROGRAMARLO"
-  alt="typing-effect" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F7DF1E&size=24&center=true&vCenter=true&width=800&height=60&lines=Si+puedes+imaginarlo,+puedes+programarlo;Next.js+%7C+Supabase+%7C+n8n+%7C+FastAPI+%7C+IA+%F0%9F%A4%96"
+    alt="typing-effect"
+  />
+</p>
 
+<p align="center">
+  <a href="https://titooo.dev.ar" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thiagoroblesdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Contacto-181717?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/17JXQ95GP65YdDmuZwLujwvU4AzeYHGE_/view" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV-1F883D?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador web amante del ecosistema JS
-- 🤖 Automatizaciones con IA 
-- 🧉  Mate, gimnasio y codigo
-- 🎓 Próximo a recibirme de Tecnico Universitario en Programacion | UTN-FRT  
+- 💻 Desarrollador web full-stack (JS/TS) con foco en **automatizaciones** y **arquitecturas pragmáticas**.  
+- 🤖 Integro **n8n** con **Supabase** (RLS, SQL, vector search) y servicios externos para bots y flujos sin fricción.  
+- ⚙️ Backend en **Node.js/Express** y **Python/FASTAPI**. Frontend con **React/Next.js** + **Tailwind**.  
+- 🎓 Próximo a recibirme de **Técnico Universitario en Programación — UTN-FRT**.  
+- 🧉 Mate, gimnasio y código — en ese orden 😄.
 
 ---
 
-## 🔗 ¡Hablemos y conectemos!
+## 🧰 Tech Principal
 
-<p align="left">
-  💬 Me encanta crear, aprender y colaborar en proyectos innovadores.  
-  ¡Conectemos y creemos algun proyecto juntos! 🚀
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" height="40" />
 </p>
 
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tito-dev" target="_blank">
-    <img src="https://img.icons8.com/color/80/000000/linkedin.png" alt="LinkedIn" title="Conectemos en LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- Portfolio -->
-  <a href="https://titooo.dev.ar/" target="_blank">
-    <img src="https://img.icons8.com/fluency/80/domain.png" alt="Portfolio" title="Mira mis proyectos" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- CV -->
-  <a href="https://drive.google.com/file/d/17JXQ95GP65YdDmuZwLujwvU4AzeYHGE_/view?usp=sharing" target="_blank">
-    <img src="https://img.icons8.com/color/80/000000/resume.png" alt="Curriculum" title="Descarga mi CV" />
-  </a>
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,dotnet,cs" height="40" />
 </p>
 
+### Datos & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,mongodb" height="40" />
+</p>
 
----
+### DevOps & Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman" height="40" />
+</p>
 
-## 🛠️ Tecnologías & Herramientas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html&theme=light&size=50" height="50" alt="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&theme=light&size=50" height="50" alt="CSS3" />
-  <img src="https://skillicons.dev/icons?i=js&theme=light&size=50" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=ts&theme=light&size=50" height="50" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=light&size=50" height="50" alt="CSharp" />
-  <img src="https://skillicons.dev/icons?i=dotnet&theme=light&size=50" height="50" alt="Dotnet" />
-  <img src="https://skillicons.dev/icons?i=react&theme=light&size=50" height="50" alt="React" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light&size=50" height="50" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express&theme=light&size=50" height="50" alt="Express" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=light&size=50" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light&size=50" height="50" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=git&theme=light&size=50" height="50" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github&theme=light&size=50" height="50" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=light&size=50" height="50" alt="VS Code" />
+### Automatización & IA
+<p>
+  <img src="https://img.shields.io/badge/n8n-Automations-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-Research-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhastApp%20API-Flows-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+## 🧱 Arquitectura & Automatizaciones
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f11fd988-42e6-4466-9fb6-49e866be3ab7" alt="E-COMMERCE" height="150" />
-        <br />
-        <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">
-          <img
-            src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ver E-COMMERCE" />
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/85351b4f-c7b9-4edb-8b31-b20dfe1d79a6" alt="TU-VIANDA-REACT" height="150" />
-        <br />
-        <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">
-          <img
-            src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ver TU-VIANDA-REACT" />
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/8c0f9f45-7892-4858-81ce-1d64aa49f329" alt="KioscoApp" height="150" />
-        <br />
-        <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">
-          <img
-            src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"
-            alt="Ver KioscoApp" />
-        </a>
-      </td>
-    </tr>
-  </table>
+- **RAG con Supabase**: embeddings + políticas **RLS** para respuestas seguras.  
+- **Workflows en n8n**: bots de WhatsApp, integraciones con GSheets, Webhooks y Jobs programados.  
+- **APIs mixtas**: **FASTAPI** (Python) para microservicios de IA y **Express** para endpoints de negocio.  
+- **Observabilidad**: logs de flujos, métricas de tiempos y análisis de uso (cuando aplica).
+
+---
+
+## 📂 Proyectos Seleccionados
+
+> Casos de estudio cortos, con repos y/o demo. Si querés ver más, mirá mi <a href="https://titooo.dev.ar" target="_blank"><b>portafolio</b></a>.
+
+| Proyecto | Descripción | Stack | Enlaces |
+|---|---|---|---|
+| **Estimular 2025** | Plataforma para centro terapéutico: módulos, RLS en Supabase, RAG para búsqueda inteligente, panel admin. | Next.js · Supabase · n8n · FastAPI | 🔗 *Case study* (pronto) · 📦 (privado/TP) |
+| **Ubicate Pibe – Agente IA** | Orquestación en n8n con WhatsApp: ver negocios, recomendaciones y direcciones; consulta a Supabase + GSheets. | n8n · Supabase · Node/Express | 🔗 *Case study* (pronto) |
+| **TU-VIANDA (React)** | App para pedidos y automatizaciones de notificaciones. | React · Node · n8n | <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">Repo</a> |
+| **KioscoApp** | Gestión de ventas de mostrador. | React · Node · MySQL | <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">Repo</a> |
+| **E-COMMERCE** | Catálogo + flujo básico de checkout. | React · Express · MongoDB | <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">Repo</a> |
+
+> **Tip:** cada proyecto incluye breve contexto, rol, stack y resultado. Si querés el PDF con las soluciones técnicas, pedímelo.
+
+---
+
+## ✨ Logros rápidos
+
+- Implementé **políticas RLS** y migraciones en **Supabase** para acceso fino por rol.  
+- Diseñé **pipelines en n8n** integrando WhatsApp + GSheets + Webhooks (botones interactivos).  
+- Monté microservicios **FASTAPI** para tareas de IA y procesamiento asíncrono.  
+
+---
+
+## 📈 Métricas
+
+<div align="center">
+
+| 📊 Stats | 🏆 Lenguajes |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical" height="150" /> |
+
 </div>
 
-
-
 ---
 
-## 📈 Estadísticas de GitHub
+## 🤝 ¿Colaboramos?
 
-| 📊 GitHub Stats | 🏆 Top Languages |
-|:---------------:|:----------------:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical) |
-
-
----
+- 💬 Me encanta crear, aprender y construir productos útiles.  
+- 📩 **Hablemos:** <a href="mailto:thiagoroblesdev@gmail.com">thiagoroblesdev@gmail.com</a>  
+- 🌎 También por <a href="https://www.linkedin.com/in/tito-dev" target="_blank">LinkedIn</a> o mirá mi <a href="https://titooo.dev.ar" target="_blank">portafolio</a>.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ismaeldevs/Ismaeldevs/output/github-snake-dark.svg" alt="snake" />
