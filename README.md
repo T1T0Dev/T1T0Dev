@@ -11,10 +11,10 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador Fullstack, amante del ecosistema JS (React, Node.js)  
-- 🧉 Fanatico del mate, el gimnasio y el codigo
+- 💻 Desarrollador web amante del ecosistema JS
+- 🤖 Automatizaciones con IA 
+- 🧉  Mate, gimnasio y codigo
 - 🎓 Próximo a recibirme de Tecnico Universitario en Programacion | UTN-FRT  
-- 🎯 Creando softwares accesibles, escalables y mantenibles desde mas de 1 año
 
 ---
 
@@ -22,7 +22,7 @@
 
 <p align="left">
   💬 Me encanta crear, aprender y colaborar en proyectos innovadores.  
-  ¡Conectemos y hagamos cosas geniales juntos! 🚀
+  ¡Conectemos y creemos algun proyecto juntos! 🚀
 </p>
 
 <p align="left">
