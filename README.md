@@ -82,11 +82,11 @@
 
 | Proyecto | Descripción | Stack | Enlaces |
 |---|---|---|---|
-| **Estimular 2025** | Plataforma para centro terapéutico: módulos, RLS en Supabase, RAG para búsqueda inteligente, panel admin. | Next.js · Supabase · n8n · FastAPI | 🔗 *Case study* (pronto) · 📦 (privado/TP) |
-| **Ubicate Pibe – Agente IA** | Orquestación en n8n con WhatsApp: ver negocios, recomendaciones y direcciones; consulta a Supabase + GSheets. | n8n · Supabase · Node/Express | 🔗 *Case study* (pronto) |
-| **TU-VIANDA (React)** | App para pedidos y automatizaciones de notificaciones. | React · Node · n8n | <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">Repo</a> |
-| **KioscoApp** | Gestión de ventas de mostrador. | React · Node · MySQL | <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">Repo</a> |
-| **E-COMMERCE** | Catálogo + flujo básico de checkout. | React · Express · MongoDB | <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">Repo</a> |
+| **Estimular 2025** | Plataforma para centro terapéutico: módulos, RLS en Supabase, RAG para búsqueda inteligente, panel admin. | Next.js · Express · Supabase| 🔗 *Case study* (pronto) · 📦 (privado/TP) |
+| **Ubicate Pibe – Agente IA** | Orquestación en n8n con WhatsApp: ver negocios, recomendaciones y direcciones; consulta a Supabase + GSheets. | n8n · Supabase | 🔗 *Case study* (pronto) |
+| **TU-VIANDA (React)** | App para pedidos y automatizaciones de notificaciones. | React | <a href="https://github.com/T1T0Dev/TU-VIANDA-REACT" target="_blank">Repo</a> |
+| **KioscoApp** | Gestión de ventas de mostrador. | Windows Forms | <a href="https://github.com/T1T0Dev/KioscoApp" target="_blank">Repo</a> |
+| **E-COMMERCE** | Catálogo + flujo básico de checkout. | React · Express · MySQL| <a href="https://github.com/T1T0Dev/E-COMMERCE" target="_blank">Repo</a> |
 
 > **Tip:** cada proyecto incluye breve contexto, rol, stack y resultado. Si querés el PDF con las soluciones técnicas, pedímelo.
 
