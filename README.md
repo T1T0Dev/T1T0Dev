@@ -2,8 +2,7 @@
 
 <p align="center">
   <!-- Reemplazá esta URL por la de tu nuevo banner -->
-  <img src="![Banner_logo](https://github.com/user-attachments/assets/46df99fe-ddb4-4089-ac50-cea7a787f958)
-" alt="TITO — Custom Software & Automation" />
+  <img src="https://github.com/user-attachments/assets/46df99fe-ddb4-4089-ac50-cea7a787f958" alt="TITO — Custom Software & Automation" />
 </p>
 
 <h1 align="center">¡Hola! Soy Thiago 👨🏻‍💻</h1>
