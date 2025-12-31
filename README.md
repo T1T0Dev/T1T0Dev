@@ -96,16 +96,11 @@ Soy **Full Stack Developer** apasionado por crear **software a medida** y **auto
 ## 📈 Estadísticas
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=T1T0Dev&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=T1T0Dev&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-    height="150"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T1T0Dev&theme=radical" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T1T0Dev&theme=radical" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T1T0Dev&theme=radical" height="150" />
 </div>
-
 
 ---
 
