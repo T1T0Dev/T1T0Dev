@@ -42,7 +42,7 @@ Soy **Full Stack Developer** apasionado por crear **software a medida** y **auto
 - 💻 Desarrollo aplicaciones con **React, Node.js, Express, Python/FastAPI**.
 - 🤖 Construyo workflows en **n8n** integrando APIs, Supabase y servicios externos.
 - 📊 Trabajo con bases de datos SQL y NoSQL (MySQL, PostgreSQL, MongoDB).
-- 🎓 Próximo a recibirme de **Técnico Universitario en Programación – UTN-FRT**.
+- 🎓 **Técnico Universitario en Programación – UTN-FRT**.
 - 🧉 Motivado por impacto real y calidad profesional.
 
 ---
