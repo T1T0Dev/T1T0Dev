@@ -1,14 +1,9 @@
 <!-- Perfil README — Thiago Robles (T1T0Dev / TITO) -->
 
-<p align="center">
-  <!-- Reemplazá esta URL por la de tu nuevo banner -->
-  <img src="https://github.com/user-attachments/assets/40e9976e-a13c-4525-92fa-e5f5bf6b4293" alt="TITO — Custom Software & Automation" />
-</p>
-
-<h1 align="center">¡Hola! Soy Thiago 👨🏻‍💻</h1>
+<h1 align="center">¡Hola! Soy Tito 👨🏻‍💻</h1>
 
 <h3 align="center">
-  Full Stack Developer · Custom Software & Automation
+  Tecnico Universitario en Programacion · Software a medida & Automatizacion
 </h3>
 
 <p align="center">
