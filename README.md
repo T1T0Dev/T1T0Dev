@@ -100,6 +100,6 @@ Soy **Full Stack Developer** apasionado por crear **software a medida** y **auto
 ---
 
 <p align="center">
-  <b>“Si puedes imaginarlo, puedes programarlo.”</b><br/>
+  <b>“Las ideas,se vuelven sistemas.”</b><br/>
   <i>— TITO</i>
 </p>
