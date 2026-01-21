@@ -3,7 +3,7 @@
 <h1 align="center">¡Hola! Soy Tito 👨🏻‍💻</h1>
 
 <h3 align="center">
-  Tecnico Universitario en Programacion · Software a medida & Automatizacion
+  Tecnico Universitario en Programacion
 </h3>
 
 <p align="center">
