@@ -1,14 +1,14 @@
-<!-- Perfil README — Thiago Robles (T1T0Dev / TITO) -->
+<!-- README de perfil — Thiago Robles / T1T0Dev -->
 
-<h1 align="center">¡Hola! Soy Tito 👨🏻‍💻</h1>
+<h1 align="center">Hola, soy Thiago Robles 👨🏻‍💻</h1>
 
 <h3 align="center">
-  Tecnico Universitario en Programacion
+  Full Stack Developer · Software a medida · Automatización · IA aplicada
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=22C55E&size=24&center=true&vCenter=true&width=900&height=60&lines=Si+puedes+imaginarlo,+puedes+programarlo;Software+a+medida+%7C+Automatización+%7C+IA"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=22C55E&size=24&center=true&vCenter=true&width=900&height=60&lines=Si+puedes+imaginarlo,+puedes+programarlo;Software+a+medida+%7C+Automatización+%7C+IA;Soluciones+reales+para+problemas+reales"
     alt="typing-effect"
   />
 </p>
@@ -23,8 +23,8 @@
   <a href="mailto:thiagoroblesdev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Contacto-181717?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/YOUR_CV_LINK/view" target="_blank">
-    <img src="https://img.shields.io/badge/Descargar_CV-1F883D?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <a href="https://drive.google.com/file/d/19LOw_XsiFHX4yUPnT1nAJLCSsHOz1gPd/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV-1F883D?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
@@ -32,59 +32,96 @@
 
 ## 🚀 Sobre mí
 
-Soy **Full Stack Developer** apasionado por crear **software a medida** y **automatizaciones inteligentes** que resuelvan problemas reales.
+Soy **Técnico Universitario en Programación** y me especializo en el desarrollo de **software a medida**, **automatización de procesos** e **integraciones con IA**.
 
-- 💻 Desarrollo aplicaciones con **React, Node.js, Express, Python/FastAPI**.
-- 🤖 Construyo workflows en **n8n** integrando APIs, Supabase y servicios externos.
-- 📊 Trabajo con bases de datos SQL y NoSQL (MySQL, PostgreSQL, MongoDB).
-- 🎓 **Técnico Universitario en Programación – UTN-FRT**.
-- 🧉 Motivado por impacto real y calidad profesional.
+Construyo soluciones enfocadas en generar impacto real: optimizar tareas, reducir trabajo manual y transformar procesos en sistemas más eficientes.
+
+### Lo que hago
+- Desarrollo aplicaciones web con **React, Next.js, Node.js, Express y FastAPI**.
+- Diseño e implemento **APIs REST** y lógica de negocio escalable.
+- Construyo automatizaciones con **n8n**, integrando APIs, bases de datos y servicios externos.
+- Trabajo con **Supabase**, PostgreSQL, MySQL y MongoDB.
+- Desarrollo herramientas pensadas para negocios, operaciones internas y productos digitales.
 
 ---
 
-## 🧰 Tech Stack Principal
+## 🧰 Stack principal
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,html,css" height="40" />
 </p>
 
-### Backend & APIs
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" height="40" />
 </p>
 
-### Bases de Datos
+### Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase" height="40" />
 </p>
 
-### Automatización & IA
+### Herramientas y automatización
 <p>
-  <img src="https://img.shields.io/badge/n8n-Automations-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="40" />
+  <img src="https://img.shields.io/badge/n8n-Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-IA-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+## 📌 Proyectos destacados
 
-| Proyecto | Descripción | Stack | Enlaces |
-|---|---|---|---|
-| **ESTIMULAR-CUSTOM-SOFTWARE** | Sistema a medida para centro terapéutico con RLS & RAG. | Next.js · Express · Supabase | 🔗 *Case study (pronto)* |
-| **Sistema-ATS-Automatizado-con-N8N** | ATS automatizado con n8n para procesos de selección IT. | n8n · APIs | 📦 Repo |
-| **TU-VIANDA-REACT** | App de gestión de pedidos con automatización de notificaciones. | React · Node · MySQL | 📦 Repo |
-| **E-COMMERCE** | Tienda web con panel admin y roles. | React · Express · MySQL | 📦 Repo | :contentReference[oaicite:6]{index=6}
-| **Taller-Electronica** | Sistema de escritorio en C# para taller de reparación. | C# · SQL | 📦 Repo |
-| **KioscoAPP** | Sistema de facturación para mercería. | C# · SQL | 📦 Repo | :contentReference[oaicite:7]{index=7}
+### ESTIMULAR — Custom Software
+Sistema a medida para un centro terapéutico, con gestión de usuarios, roles, módulos operativos y arquitectura orientada a escalabilidad.
+
+**Stack:** Next.js · Express · Supabase
 
 ---
 
-## ✨ Impacto & Logros
+### ATS Automatizado con n8n
+Automatización de procesos de selección IT con flujos integrados, lógica condicional y orquestación de servicios externos.
 
-- Implementé **políticas RLS** y migraciones seguras en Supabase.
-- Desarrollé workflows con **n8n** integrando múltiples servicios externos.
-- Creé microservicios con **FastAPI** para IA y tareas asíncronas.
+**Stack:** n8n · APIs · Automatización
+
+---
+
+### TU VIANDA
+Aplicación de gestión de pedidos con foco en operación interna, administración y automatización de notificaciones.
+
+**Stack:** React · Node.js · MySQL
+
+---
+
+### E-Commerce con panel administrativo
+Tienda online con gestión de productos, usuarios, autenticación y estructura administrativa.
+
+**Stack:** React · Express · MySQL
+
+---
+
+### Taller Electrónica
+Sistema de gestión para taller de reparación electrónica, enfocado en registrar ingresos, seguimiento y organización operativa.
+
+**Stack:** C# · SQL
+
+---
+
+### KioscoAPP
+Sistema de facturación y gestión pensado para pequeños comercios.
+
+**Stack:** C# · SQL
+
+---
+
+## ✨ En qué aporto valor
+
+- Diseño soluciones que resuelven problemas reales de negocio.
+- Automatizo procesos repetitivos para ahorrar tiempo y reducir errores.
+- Conecto sistemas, APIs y bases de datos en flujos funcionales.
+- Desarrollo productos internos y herramientas a medida con enfoque práctico.
+- Busco equilibrio entre **velocidad de desarrollo**, **calidad técnica** y **utilidad real**.
 
 ---
 
@@ -99,7 +136,17 @@ Soy **Full Stack Developer** apasionado por crear **software a medida** y **auto
 
 ---
 
+## 🤝 Conectemos
+
+Si te interesa trabajar conmigo, colaborar en un proyecto o hablar sobre desarrollo, automatización o IA aplicada, podés encontrarme acá:
+
+- 🌐 Portfolio: [titooo.dev.ar](https://titooo.dev.ar)
+- 💼 LinkedIn: [linkedin.com/in/tito-dev](https://www.linkedin.com/in/tito-dev)
+- 📫 Email: [thiagoroblesdev@gmail.com](mailto:thiagoroblesdev@gmail.com)
+
+---
+
 <p align="center">
-  <b>“Las ideas,se vuelven sistemas.”</b><br/>
-  <i>— TITO</i>
+  <b>Las ideas se vuelven sistemas.</b><br/>
+  <i>— Tito</i>
 </p>
